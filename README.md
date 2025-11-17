@@ -65,7 +65,7 @@ Plateformes d'apprentissage en ligne et cours complets rendant l'éducation IA a
 
 - 🌍 Site personnel : [kristy.cloud](https://kristy.cloud)
 - 📚 Formation IA : [Prompt101.fr](https://prompt101.fr)
-- 💼 LinkedIn : [Votre profil LinkedIn](https://www.linkedin.com/in/kanamo/)
+- 💼 LinkedIn : [mon profil LinkedIn](https://www.linkedin.com/in/kanamo/)
 - 🎵 **Le Vibe Coding** - Laboratoire créatif mêlant IA, musique et intelligence émotionnelle
 
 ## 📖 Projets actuels
