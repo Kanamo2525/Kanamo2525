@@ -3,22 +3,11 @@
 ## 💡 Mes domaines d'expertise
 
 ### 🎓 **AI Upskilling**
-J'accompagne les équipes et individus dans le développement de compétences IA essentielles à travers des parcours d'apprentissage structurés et des applications pratiques.
-
 ### ✍️ **Prompt Engineering**
-Maîtrise de l'art et de la science de créer des prompts efficaces pour exploiter tout le potentiel des LLM et systèmes d'IA générative.
-
 ### 🤖 **AI Agents**
-Conception et implémentation d'agents IA intelligents capables d'effectuer des tâches de manière autonome, de prendre des décisions et d'interagir avec les utilisateurs et systèmes.
-
 ### 🎯 **AI Training & Workshops**
-Sessions de formation interactives et workshops pratiques pour développer les compétences IA et favoriser l'innovation en entreprise.
-
 ### 💻 **Vibe Coding Hackathons**
-Événements collaboratifs énergisants qui réunissent développeurs, designers et passionnés d'IA pour créer des solutions innovantes dans des environnements créatifs.
-
 ### 📚 **AI e-learning**
-Plateformes d'apprentissage en ligne et cours complets rendant l'éducation IA accessible, engageante et efficace pour tous les niveaux.
 
 ## 🛠️ Stack Technique
 
