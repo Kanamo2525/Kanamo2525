@@ -1,10 +1,6 @@
-# Bonjour ! 👋 Je suis Kristy
+# Bonjour ! 👋🏾
 
-## 🚀 Chief Products & Technology Officer @ Bluenove
-
-Je suis passionnée par l'**IA transformationnelle** et l'**innovation en apprentissage digital**. Mon travail se situe à l'intersection de la technologie, de l'éducation et de la transformation organisationnelle.
-
-## 💡 Domaines d'expertise
+## 💡 Mes domaines d'expertise
 
 ### 🎓 **AI Upskilling**
 J'accompagne les équipes et individus dans le développement de compétences IA essentielles à travers des parcours d'apprentissage structurés et des applications pratiques.
@@ -78,9 +74,5 @@ Plateformes d'apprentissage en ligne et cours complets rendant l'éducation IA a
 - 💡 **Vibe Coding Lab** - Enseigner la programmation assistée par IA aux non-techniques
 - 🧠 Explorations en neurotechnologies et visualisation EEG
 - 🏢 Programmes de transformation digitales et IA pour grands groupes (CMA-CGM,Airbus,...)
-
-## 📊 GitHub Stats
-
-![Kristy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kanamo2525&show_icons=true&theme=radical)
 
 ---
