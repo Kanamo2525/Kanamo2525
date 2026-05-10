@@ -62,6 +62,6 @@
 - 🤝 **Le Guide de l'IA pour les RH** - Accompagner les leaders RH dans l'adoption de l'IA
 - 💡 **Vibe Coding Lab** - Enseigner la programmation assistée par IA aux non-techniques
 - 🧠 Explorations en neurotechnologies et visualisation EEG
-- 🏢 Programmes de transformation digitale et IA pour grands groupes (CMA-CGM,Airbus,...)
+- 🏢 Programmes de transformation digitale et IA pour grands groupes (EADS, Airbus, ...)
 
 ---
